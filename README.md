@@ -1,8 +1,8 @@
-- 👋 oi,eu sou @LehGomes29
+- 👋 oi,eu sou LehGomes29
 - 👀 estou interessada em maquiagem e roupas
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 atualmente estou aprendendo HTML,CSS
+- 💞️ estou procurando colaborar em projetos para meu futuro
+- 📫 voce pode me encontrar em leticia.otero@escola.pr.gov.br
 
 <!---
 LehGomes29/LehGomes29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
